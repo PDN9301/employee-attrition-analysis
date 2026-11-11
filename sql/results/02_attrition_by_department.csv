@@ -1,0 +1,11 @@
+department,headcount,employees_left,attrition_rate_pct,vs_company_avg_pts,attrition_rank,share_of_all_leavers_pct
+HR,739,215,29.1,5.3,1,6.0
+Accounting,767,204,26.6,2.8,2,5.7
+Technical,2720,697,25.6,1.8,3,19.5
+Support,2229,555,24.9,1.1,4,15.5
+Sales,4140,1014,24.5,0.7,5,28.4
+Marketing,858,203,23.7,-0.1,6,5.7
+IT,1227,273,22.2,-1.6,7,7.6
+Product Management,902,198,22.0,-1.9,8,5.5
+R&D,787,121,15.4,-8.4,9,3.4
+Management,630,91,14.4,-9.4,10,2.5

@@ -1,0 +1,21 @@
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.joblib
+*.h5
+*.keras
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rebuilt by sql/load_data.py
+sql/hr.db
+
+# Tableau temp/lock files
+~*.twbr

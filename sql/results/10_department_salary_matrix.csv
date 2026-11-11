@@ -1,0 +1,11 @@
+department,salary_level,headcount,attrition_rate_pct
+Support,low,1146,33.9
+Sales,low,2099,33.2
+Management,low,180,32.8
+HR,medium,359,32.6
+Marketing,low,402,31.3
+Accounting,medium,335,29.9
+IT,low,609,28.2
+Accounting,low,358,27.7
+Technical,low,1372,27.6
+HR,low,335,27.5

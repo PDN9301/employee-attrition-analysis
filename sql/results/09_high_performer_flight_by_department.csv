@@ -1,0 +1,5 @@
+department,high_performers,high_performers_left,hp_attrition_rate_pct,company_hp_attrition_rate_pct,vs_company_pts
+Technical,1070,364,34.0,30.3,3.7
+Accounting,295,93,31.5,30.3,1.2
+Sales,1518,478,31.5,30.3,1.1
+Support,915,285,31.1,30.3,0.8

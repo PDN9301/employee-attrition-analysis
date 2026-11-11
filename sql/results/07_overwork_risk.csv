@@ -1,0 +1,4 @@
+workload_group,headcount,employees_left,attrition_rate_pct
+Under-utilized,1747,1467,84.0
+Overworked,3855,1401,36.3
+Balanced,9397,703,7.5

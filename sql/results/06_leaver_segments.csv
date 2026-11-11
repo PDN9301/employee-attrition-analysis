@@ -1,0 +1,5 @@
+segment,headcount,employees_left,attrition_rate_pct,share_of_all_leavers_pct,avg_monthly_hours,avg_projects
+Disengaged under-performer,2056,1542,75.0,43.2,153,2.4
+Satisfied high performer,3498,901,25.8,25.2,213,4.0
+Burned-out high performer,1121,895,79.8,25.1,262,5.8
+Other,8324,233,2.8,6.5,200,3.8
